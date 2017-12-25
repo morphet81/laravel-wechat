@@ -9,9 +9,15 @@
             "email": "anzhengchao@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/morphet81/wechat"
+        }
+    ],
     "require": {
         "illuminate/container": "^5.1",
-        "overtrue/wechat": "^4.0"
+        "overtrue/wechat": "dev-phoceis"
     },
     "autoload": {
         "psr-4": {
